@@ -9,7 +9,7 @@
 -CRUD
 
 -Entities
-(Usuuario, Colecciones e items)
+(Usuuario, Colecciones e Items)
 
 -MVC
 
